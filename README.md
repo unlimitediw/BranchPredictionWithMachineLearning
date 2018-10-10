@@ -1,2 +1,2 @@
 # BranchPredictionWithMachineLearning
-Please run the perceptron.py to get the prediction result.
+Please run the Perceptron.py to get the prediction result.
